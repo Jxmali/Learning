@@ -1,0 +1,51 @@
+html{
+    background-color:black;
+    color: white;
+    text-align: center;
+}
+
+div{
+    background-color: beige;
+    
+    color: black;
+    width: 50%;
+    margin: auto;
+    text-align: center;
+
+    border-radius: 25px;
+    border: 2px solid grey;
+    padding: 20px;
+    
+}
+
+img{
+    width: 100%;
+}
+
+ol{
+    list-style-type: none;
+    display: flex;
+}
+
+li{
+    display: block;
+    padding: 10px 15px;
+    border: 1px solid black;
+    width: 50%;
+    margin: 2px auto;
+}
+
+nav ol li a{
+    color: white;
+    border: 2px white;
+}
+
+nav ol li a:hover{
+    color: red;
+    border-bottom: 1px black;
+    font-size: x-large;
+}
+
+#box3{
+    text-decoration: underline;
+}

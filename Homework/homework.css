@@ -5,8 +5,8 @@ html{
 
 main{
     background-color: rgb(249, 234, 225);
-    border: 1px solid white;
-    width: 50%;
+    border: 3px solid white;
+    width: 100%;
     height: 200px;
     color: black;
 }

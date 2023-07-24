@@ -1,0 +1,16 @@
+.flex-container{
+    background-color: orange;
+    border: 1px solid black;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    height: 1000px;
+    align-items: first baseline;
+}
+
+.flex-container div{
+    width: 20%;
+    border: 1px solid black;
+    text-align: center;
+    margin: 10px;
+}

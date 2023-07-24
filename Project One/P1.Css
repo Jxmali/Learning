@@ -1,0 +1,43 @@
+header{
+    color: grey;
+}
+
+header img{
+    height: 80px;
+}
+
+body{
+    height: 125vh;
+    background-image: url(https://t3.ftcdn.net/jpg/03/01/07/40/240_F_301074038_IjQiZLewxjvzPftDCegtw0Pp9GxMNFLV.jpg);
+    background-size: cover;
+}
+
+Header nav ul{
+    list-style-type: none;
+    display: flex;
+    justify-content: flex-end;
+}
+
+header nav ul li{
+    padding: 10px 10px;
+}
+
+header nav ul li a:hover{
+    text-decoration: none;
+    color: grey;
+    border-bottom: 3px grey;
+}
+
+#Home-header{
+    color: black;
+}
+
+#Span-home1{
+    text-decoration: underline;
+    font-style: italic;
+    color: ;
+}
+
+main{
+    background-color:black;
+}

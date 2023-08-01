@@ -15,8 +15,9 @@ let array = ["milk","sugar","bread","juice","fruit","eggs","flour","butter","yog
 array.pop()
 array.push("Cheese")
 
-
-
+console.log(array[0])
+console.log(array[8])
+console.log(array[array.length-1])
 
 array[2] = "Chair"
 array[9] = "sofa"
